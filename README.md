@@ -1,7 +1,7 @@
 Pour SNT (Seconde)
 
 ✅ Règles simples à comprendre
-✅ Motivation : c'est un vrai jeu
+✅ Motivation : c'est un vrai jeu facile à comprendre
 ✅ Montre concrètement "ce qu'on peut faire avec Python"
 ✅ Pas trop long (pas de décrochage)
 
@@ -11,7 +11,7 @@ Pour NSI (Première/Terminale)
 ✅ Code lisible et bien structuré
 ✅ Nombreuses pistes d'amélioration possibles
 
-Concepts Python couverts
+► Concepts Python couverts
 python# Structures de données
 liste = [1, 2, 3, 4]           # Listes
 random.sample()                # Échantillonnage
