@@ -1,4 +1,4 @@
-L'EXÉCUTION DE CE PROGRAMME NÉCESSITE UN ENVIRONNEMENT PYTHON
+# L'EXÉCUTION DE CE PROGRAMME NÉCESSITE UN ENVIRONNEMENT PYTHON
 
 Pour SNT (Seconde)
 
@@ -13,27 +13,8 @@ Pour NSI (Première/Terminale)
 ✅ Code lisible et bien structuré
 ✅ Nombreuses pistes d'amélioration possibles
 
-► Concepts Python couverts
-python# Structures de données
-liste = [1, 2, 3, 4]           # Listes
-random.sample()                # Échantillonnage
-
-# Structures de contrôle  
-while essais_restants > 0:     # Boucles
-if bien_places == 4:           # Conditions
-
-# Fonctions
-def generer_combinaison():     # Définition
-return combinaison             # Valeur de retour
-
-# Manipulation de chaînes
-guess.isdigit()                # Méthodes de string
-len(set(guess))                # Conversion et test
-
-# Module random
-random.shuffle()               # Aléatoire
-
 Progression pédagogique possible
+
 ✅ Séance 1 : Découverte
 
 Jouer au jeu (en tant qu'élève) 🔒
@@ -62,17 +43,14 @@ Mode 2 joueurs
 ✅ Améliorations possibles (par difficulté)
 
 📶 Niveau facile :
-python# Ajouter un compteur de victoires
-victoires = 0
-# Demander si on rejoue
+► Ajouter un compteur de victoires
+► Demander si on rejoue
 rejouer = input("Rejouer ? (o/n) ")
 📶 Niveau moyen :
-python# Historique des tentatives
-historique = []
-historique.append((guess, bien_places, mal_places))
-# Afficher l'historique à chaque tour
+► Historique des tentatives
+► Afficher l'historique à chaque tour
 📶 Niveau avancé :
-python# Interface graphique avec tkinter
-# Sauvegarde dans un fichier JSON
-# Chronomètre
-# Suggestions intelligentes (IA qui joue)
+► Interface graphique avec tkinter
+► Sauvegarde dans un fichier JSON
+► Chronomètre
+► Suggestions intelligentes (IA qui joue)
