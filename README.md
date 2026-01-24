@@ -1,3 +1,5 @@
+L'EXÉCUTION DE CE PROGRAMME NÉCESSITE UN ENVIRONNEMENT PYTHON
+
 Pour SNT (Seconde)
 
 ✅ Règles simples à comprendre
