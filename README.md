@@ -1,4 +1,4 @@
-# L'EXÉCUTION DE CE PROGRAMME NÉCESSITE UN ENVIRONNEMENT PYTHON
+# L'exécution de ce programme nécessite un environnement PYTHON
 
 Pour SNT (Seconde)
 
@@ -10,7 +10,6 @@ Pour SNT (Seconde)
 Pour NSI (Première/Terminale)
 
 ✅ Couvre beaucoup de concepts fondamentaux
-✅ Code lisible et bien structuré
 ✅ Nombreuses pistes d'amélioration possibles
 
 Progression pédagogique possible
