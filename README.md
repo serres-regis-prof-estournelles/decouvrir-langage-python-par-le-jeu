@@ -82,3 +82,4 @@ rejouer = input("Rejouer ? (o/n) ")
 #
 ► Suggestions intelligentes (IA qui joue)
 #
+👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
