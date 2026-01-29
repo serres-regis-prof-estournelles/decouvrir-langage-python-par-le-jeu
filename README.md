@@ -1,5 +1,7 @@
-# L'exécution de ce programme nécessite un environnement PYTHON
-
+# L'exécution de ce programme nécessite un environnement PYTHON 
+# IDE Thonny recommandé
+📌 Exécuter le script courant dans un terminal ► Ctrl+T
+#
 Pour SNT (Seconde)
 #
 ✅ Règles simples à comprendre
