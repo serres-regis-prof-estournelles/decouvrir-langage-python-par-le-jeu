@@ -1,5 +1,5 @@
-# L'exécution de ce programme nécessite un environnement PYTHON 
-# IDE Thonny recommandé
+## L'exécution de ce programme nécessite un environnement PYTHON 
+## IDE Thonny recommandé
 📌 Exécuter le script courant dans un terminal ► Ctrl+T
 #
 Pour SNT (Seconde)
@@ -83,5 +83,9 @@ rejouer = input("Rejouer ? (o/n) ")
 ► Chronomètre
 #
 ► Suggestions intelligentes (IA qui joue)
+#
+📝 Licence
+#
+Distribué sous licence MIT
 #
 👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
